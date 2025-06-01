@@ -12,22 +12,34 @@ git clone https://github.com/XuanKien65/Parking_Management.git
 
 ```bash
 cd parking-management
+```
+- Mở 2 Terminal:
++ Terminal 1:
 
+```bash
 cd snart-parking
 npm install
+```
 
++ Terminal 2:
+
+```bash
 cd backend
 npm install
 ```
 
 ### 3. Chạy project
 
++ Terminal 1:
+
 ```bash
 cd smart-parking
 npm start
+```
++ Terminal 2:
 
+```bash
 cd backend
 npm start
 ```
-
 ---
